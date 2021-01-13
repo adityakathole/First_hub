@@ -1,2 +1,5 @@
 print ("Hello World")
 print ("on the  dev branch")
+print ("open source is the future ")
+print ("be a good learner")
+print ("be a good humans ")
